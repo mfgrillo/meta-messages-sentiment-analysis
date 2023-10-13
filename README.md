@@ -3,6 +3,6 @@ This mini project proposes utilizing a pull request of my personal data from Fac
 
 I performing the analysis directly in Jupyter Notebooks.
 
-![alt text](https://imgur.com/OSiaVit)
+![alt text](https://i.imgur.com/OSiaVit.png)
 
-![alt text](https://imgur.com/NlZO3h1)
+![alt text](https://i.imgur.com/NlZO3h1.png)

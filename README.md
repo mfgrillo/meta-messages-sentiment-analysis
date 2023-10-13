@@ -1,6 +1,8 @@
 # meta-messages-sentiment-analysis
 This mini project proposes utilizing a pull request of my personal data from Facebook/Instagram to perform sentiment analysis with the hope of recognizing trends. The code should be replicable as long as you have your own pulls from Facebook/Instagram, and are willing to modify directories as needed.
 
+Here, we utilize ![VADER](https://github.com/cjhutto/vaderSentiment), a pretrained sentiment analyzer, in order to obtain sentiment scores.
+
 I performing the analysis directly in Jupyter Notebooks. Details can be found there, but for a high level look at the results, let's take a look below!
 
 For some interesting outcom

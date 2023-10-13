@@ -8,7 +8,7 @@ I performing the analysis directly in Jupyter Notebooks. Details can be found th
 
 For some interesting outcom
 
-For starters, we can see hourly trends for message sentiment. Immediately we see that the majority of my messages are neutral in sentiment. This would for example be descriptive of purely informative messages. However, messages tend to be more positive during the morning, and balance out later during the evening. Maybe I'm grumpy when I'm sleepy? Until we hook me up to some EEG's, your guess is as good as mine.
+For starters, we can see hourly trends for message sentiment. Immediately we see that the majority of my messages are neutral in sentiment. This would for example be descriptive of purely informative messages. However, messages tend to be more positive during the morning, and balance out later during the evening. Maybe I'm grumpy when I'm sleepy? Until we hook me up to an EEG, your guess is as good as mine.
 
 ![Hourly](https://i.imgur.com/CUkSt0o.png)
 
